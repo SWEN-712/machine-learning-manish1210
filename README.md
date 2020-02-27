@@ -1,4 +1,4 @@
-Project has two parts, Part A is done using Scala folowing the tutorials and Part B is done with Python using different libraries
+Project has two parts, Part A is done using Scala following the tutorials and Part B is done with Python using different libraries
 for analysing the tweets better as Part A does not give enough information.
 
 A.Setup for Analysis using Scala(SentimentAnalysis folder)
@@ -16,7 +16,7 @@ Create a new notebook and copy the contents of sentiment_analysis.scala into it.
 B.Setup for Analysis using Python(tweet_analysis.py)
 
 Run the file in any Python IDE
-with Denpendancies
+with Denpendencies
 1.tweepy
 2.textblob
 3.matplotlib
