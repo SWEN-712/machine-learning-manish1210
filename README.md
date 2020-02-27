@@ -15,7 +15,8 @@ Create a new notebook and copy the contents of sentiment_analysis.scala into it.
 
 B.Setup for Analysis using Python(tweet_analysis.py)
 
-Denpendancies
+Run the file in any Python IDE
+with Denpendancies
 1.tweepy
 2.textblob
 3.matplotlib
